@@ -1,6 +1,6 @@
 ## **Olá! Eu sou o Felipe Medeiros 🤓**
 
-* ❤️ Hoje trabalho com front-end.
+* ❤️ Hoje trabalho com Servicenow.
 * 🎓 Cursando bacharelado em Sistemas de informação.
 * 📚 Estudando Python.
 
