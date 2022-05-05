@@ -1,10 +1,11 @@
 ## **Olá! Eu sou o Felipe Medeiros 🤓**
 
-* ❤️ Atualment trabalhando com Servicenow.
+* ❤️ Atualmente trabalhando com Servicenow.
 * 🎓 Cursando bacharelado em Sistemas de informação.
 * 📚 Estudando Python.
 * 📚 Estudando JavaScript
 * 📚 Estudando ServiceNow
+* 📚 Estudando Java
 
 <div>
   <a href="github.com/Felps1909">
